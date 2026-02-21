@@ -16,9 +16,7 @@ BrainMaps Explorer is an iOS application that allows users to search and explore
 - **Infinite Scrolling** - Automatically loads more results as you scroll
 - **Responsive UI** - Clean, intuitive interface that follows iOS design guidelines
 
-## Requirements Met
-
-This project was built for a CSCI 395 iOS Development course and fulfills the following requirements:
+## Project Components
 
 1. **REST API Call** - Uses URLSession to call the NeuroVault API with user-input parameters
 2. **Extend Native Class** - Extends Notification.Name for custom notifications
